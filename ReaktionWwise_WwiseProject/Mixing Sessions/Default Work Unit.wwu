@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B14B6702-367B-44C2-B876-0CD357E27F37}" SchemaVersion="89">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{B14B6702-367B-44C2-B876-0CD357E27F37}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="CheckOutRTPCMeter" ID="{515BA523-201D-49D3-AA3C-1713A976CED9}">
+					<ObjectList>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{773AD2BE-FA6C-480B-922F-4B62C8EC0E53}"/>
+						<ObjectRef Name="RTPCMeterBus" ID="{BD6668AF-8E7B-494B-86BD-AB6150BFA34A}" WorkUnitID="{773AD2BE-FA6C-480B-922F-4B62C8EC0E53}"/>
+						<ObjectRef Name="HighEndMeter" ID="{D4C25663-E45C-447A-A21A-9743C4BF057C}" WorkUnitID="{773AD2BE-FA6C-480B-922F-4B62C8EC0E53}"/>
+						<ObjectRef Name="LowEndMeter" ID="{A5BC17EF-90AF-491D-B3F3-A1CB73255D7D}" WorkUnitID="{773AD2BE-FA6C-480B-922F-4B62C8EC0E53}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>

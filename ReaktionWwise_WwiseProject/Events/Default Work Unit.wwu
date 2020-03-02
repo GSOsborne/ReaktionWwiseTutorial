@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0DC00698-D38D-4684-8C4F-A1AC88563A35}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{0DC00698-D38D-4684-8C4F-A1AC88563A35}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="StartThatLoop" ID="{B8ABF6AE-CE96-40C3-8B6E-1C90872833A7}">
+					<ChildrenList>
+						<Action Name="" ID="{1FEF3C91-E654-4AF8-80B8-A801126CDD68}" ShortID="184447754">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RiserLoop" ID="{8CF19DBA-771A-4F58-9820-D2F2E88DC5AB}" WorkUnitID="{E44F42DC-8EE7-4DA5-B194-F1EB5266DA54}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

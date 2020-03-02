@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{30E5392A-0F16-4B6D-9DEE-7A66C050C9D3}" SchemaVersion="89">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{30E5392A-0F16-4B6D-9DEE-7A66C050C9D3}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="RiserMeter" ID="{BD63AFBF-78B4-4F65-8D7A-090508AA32EE}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="RiserMeterRTPC" ID="{6F7FF0B2-3DFC-4BD9-9534-51B97A948D75}"/>
+</PluginData>
+				</Effect>
+				<Effect Name="HighEndEQ" ID="{15307B35-67E3-43F2-87ED-CBEAA7D56225}" PluginName="Wwise Parametric EQ" CompanyID="0" PluginID="105" PluginType="3">
+					<PropertyList>
+						<Property Name="FilterTypeBand1" Type="int32" Value="1"/>
+						<Property Name="FrequencyBand1" Type="Real32" Value="792"/>
+						<Property Name="GainBand1" Type="Real32" Value="-24"/>
+						<Property Name="OnOffBand2" Type="bool" Value="False"/>
+						<Property Name="OnOffBand3" Type="bool" Value="False"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="LowEndEQ" ID="{1F672436-B64F-47ED-B7DB-6B2CC3BA796B}" PluginName="Wwise Parametric EQ" CompanyID="0" PluginID="105" PluginType="3">
+					<PropertyList>
+						<Property Name="FilterTypeBand3" Type="int32" Value="0"/>
+						<Property Name="FrequencyBand3" Type="Real32" Value="347"/>
+						<Property Name="GainBand3" Type="Real32" Value="-8"/>
+						<Property Name="OnOffBand1" Type="bool" Value="False"/>
+						<Property Name="OnOffBand2" Type="bool" Value="False"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="Muter" ID="{43352D21-CA87-4D68-8CAE-C686FA769797}" PluginName="Wwise Gain" CompanyID="0" PluginID="139" PluginType="3">
+					<PropertyList>
+						<Property Name="FullBandGain" Type="Real32" Value="-96.3"/>
+						<Property Name="LFEGain" Type="Real32" Value="-96.3"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="HighEndMeter" ID="{29755213-C7FA-4D9F-9F97-D5E205814183}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="HighEndRTPC" ID="{6A7C90C1-88A7-4B13-88D9-0DBEB285FA26}"/>
+</PluginData>
+				</Effect>
+				<Effect Name="LowEndMeter" ID="{4CB194C7-CCC8-4C28-A184-4A47B3E70DF3}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="LowEndRTPC" ID="{49BAD728-AC1B-4151-8E46-4734765A4159}"/>
+</PluginData>
+				</Effect>
+				<Effect Name="MeterOne" ID="{41077D8F-717D-4709-94AE-7205A5297668}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="MeterOneRTPC" ID="{755189E7-5065-4F20-AC38-59A9D317B852}"/>
+</PluginData>
+				</Effect>
+				<Effect Name="MeterTwo" ID="{C6376470-CC88-47D4-9CC8-8B89649B6E3F}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="MeterTwoRTPC" ID="{0D3E7ED0-BE68-4C6E-8056-D7ACC079672F}"/>
+</PluginData>
+				</Effect>
+				<Effect Name="MeterThree" ID="{E0BCA87D-D1C5-42E1-935D-1336AA6F3C24}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">					<PluginData>
+	<GameParameter Name="MeterThreeRTPC" ID="{9A090D5D-BF5E-4F51-B9B6-760028892815}"/>
+</PluginData>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

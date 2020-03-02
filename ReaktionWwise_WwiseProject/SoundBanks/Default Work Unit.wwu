@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2C771A70-E7C4-4739-BC21-87B44B3ECD6C}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{2C771A70-E7C4-4739-BC21-87B44B3ECD6C}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="LiterallyJustTheLoop" ID="{FE4C8822-8848-4791-8E50-C7ECACB953C4}">
+					<ObjectInclusionList>
+						<ObjectRef Name="StartThatLoop" ID="{B8ABF6AE-CE96-40C3-8B6E-1C90872833A7}" WorkUnitID="{0DC00698-D38D-4684-8C4F-A1AC88563A35}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

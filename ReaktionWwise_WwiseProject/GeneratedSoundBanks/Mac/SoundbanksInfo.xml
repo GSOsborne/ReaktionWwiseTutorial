@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\gsosb\Documents\Game Projects\ReaktionWwise\ReaktionWwise_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\gsosb\Documents\Game Projects\ReaktionWwise\ReaktionWwise_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\gsosb\Documents\Game Projects\ReaktionWwise\ReaktionWwise_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\gsosb\Documents\Game Projects\ReaktionWwise\ReaktionWwise_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2501815912" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\LiterallyJustTheLoop</ObjectPath>
+			<ShortName>LiterallyJustTheLoop</ShortName>
+			<Path>LiterallyJustTheLoop.bnk</Path>
+			<IncludedEvents>
+				<Event Id="991829366" Name="StartThatLoop" ObjectPath="\Events\Default Work Unit\StartThatLoop"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="117947357" Language="SFX">
+					<ShortName>BL_gso_Layer1.wav</ShortName>
+					<Path>SFX\BL_gso_Layer1_8956FC97.wem</Path>
+				</File>
+				<File Id="487521143" Language="SFX">
+					<ShortName>BL_gso_Layer2.wav</ShortName>
+					<Path>SFX\BL_gso_Layer2_8956FC97.wem</Path>
+				</File>
+				<File Id="977852516" Language="SFX">
+					<ShortName>StereoRail_Riser3.wav</ShortName>
+					<Path>SFX\StereoRail_Riser3_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

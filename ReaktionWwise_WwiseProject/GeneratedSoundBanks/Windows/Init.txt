@@ -1,0 +1,24 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1339391199	RTPCMeterBus			\Default Work Unit\RTPCMeterBus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	49542359	LowEndMeter			\Default Work Unit\RTPCMeterBus\LowEndMeter	
+	540135174	MeterThreeBus			\Default Work Unit\RTPCMeterBus\MeterThreeBus	
+	1894395051	HighEndMeter			\Default Work Unit\RTPCMeterBus\HighEndMeter	
+
+Effect plug-ins	ID	Name	Type				Notes
+	49542359	LowEndMeter	Wwise Meter			
+	683448026	LowEndEQ	Wwise Parametric EQ			
+	875469628	MeterThree	Wwise Meter			
+	1516686688	MeterOne	Wwise Meter			
+	1534015790	HighEndEQ	Wwise Parametric EQ			
+	1894395051	HighEndMeter	Wwise Meter			
+	1900850642	MeterTwo	Wwise Meter			
+	2899843363	RiserMeter	Wwise Meter			
+	3791155940	Muter	Wwise Gain			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

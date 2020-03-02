@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	991829366	StartThatLoop			\Default Work Unit\StartThatLoop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	117947357	BL_gso_Layer1	C:\Users\gsosb\Documents\Game Projects\ReaktionWwise\ReaktionWwise_WwiseProject\.cache\Mac\SFX\BL_gso_Layer1_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\TheRiserLoop\RiserLoop\BL_gso_Layer1\BL_gso_Layer1		15889720
+	487521143	BL_gso_Layer2	C:\Users\gsosb\Documents\Game Projects\ReaktionWwise\ReaktionWwise_WwiseProject\.cache\Mac\SFX\BL_gso_Layer2_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\TheRiserLoop\RiserLoop\BL_gso_Layer1\BL_gso_Layer2		15889720
+	977852516	StereoRail_Riser3	C:\Users\gsosb\Documents\Game Projects\ReaktionWwise\ReaktionWwise_WwiseProject\.cache\Mac\SFX\StereoRail_Riser3_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\TheRiserLoop\RiserLoop\StereoRail_Riser3\StereoRail_Riser3		4608064
+
